@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Staging</key>
+	<dict>
+		<key>apiBaseURL</key>
+		<string>http://stagingserver.getsandbox.com/</string>
+		<key>clientID</key>
+		<string>xxxxx</string>
+		<key>clientSecret</key>
+		<string>xxxxx</string>
+		<key>flurryAPIKey</key>
+		<string>xxxxx</string>
+		<key>crittercismAppID</key>
+		<string>xxxxx</string>
+	</dict>
+	<key>Release</key>
+	<dict>
+		<key>apiBaseURL</key>
+		<string>http://demorealm.getsandbox.com</string>
+		<key>clientID</key>
+		<string>xxxxxx</string>
+		<key>clientSecret</key>
+		<string>xxxxxx</string>
+		<key>flurryAPIKey</key>
+		<string>xxxxxx</string>
+		<key>crittercismAppID</key>
+		<string>xxxxxx</string>
+	</dict>
+	<key>Default</key>
+	<dict>
+		<key>apiBaseURL</key>
+		<string>http://demorealm.getsandbox.com</string>
+		<key>clientID</key>
+		<string>xxxxxx</string>
+		<key>clientSecret</key>
+		<string>xxxxxx</string>
+		<key>flurryAPIKey</key>
+		<string>xxxxxx</string>
+		<key>crittercismAppID</key>
+		<string>xxxxxx</string>
+	</dict>
+</dict>
+</plist>

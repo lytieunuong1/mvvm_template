@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MVVMTemplate
+
+  Created by Thuỳ Nguyễn on 2/9/18.
+  Copyright © 2018 NUS Technology. All rights reserved.
+*/
+"Ok" = "Đồng ý";
+"Success" = "Thành công";
+"Error" = "Lỗi";
+"Update was success!" = "Cập nhật đã thành công!";
+"Update was error!" = "Cập nhật đã bị lỗi!";
+"Creation was success!" = "Tạo mới thành công!";
+"Creation was error!" = "Tạo mới đã bị lỗi!";
+"Register was successful!" = "Đăng ký thành công!";
+"Unrecognized the link" = "Đường dẫn bị lỗi";
+"Have no respone data" = "Không có dữ liệu trả về";

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mvvm-modelClass</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import EVReflection
+
+
+
+class &lt;# Model #&gt; : ModelType {
+
+    //MARK: API Properties
+    &lt;# Code #&gt;
+
+    //MARK: Ignored Properties
+    &lt;# Code #&gt;
+
+    override class func singularKeyPath() -&gt; String {
+        return &lt;# String #&gt;
+    }
+
+    /*
+    //Options will be use when convert from json to object or vice versa
+    override class func conversionDeserializeOptions() -&gt; ConversionOptions {
+            return ConversionOptions.DefaultDeserialize
+    }
+
+    override class func conversionSerializeOptions() -&gt; ConversionOptions {
+            return ConversionOptions.DefaultSerialize
+    }
+    */
+
+    /*
+    //Key path of plural respone data
+    //Override this function when the respone data have a special key. By default is adding `s` at the end.
+    override class func pluralKeyPath() -&gt; String {
+            return nil
+    }
+    */
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E98ED81B-44D1-4945-8193-577CBD7EF056</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This format for Model Class</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MVVM - Model Class</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

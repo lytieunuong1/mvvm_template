@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mvvm-tableViewCellClass</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    private var disposeBag = DisposeBag()
+
+    //Use a trigger that when the viewModel change we will register observers to show data into view
+    var viewModel: &lt;# CellViewModel #&gt;? {
+        didSet {
+            bindViewModel()
+        }
+    }
+
+
+    override func prepareForReuse() {
+        super.prepareForReuse()
+        //You have to re-create a new DisposeBag to clear the old observers
+        disposeBag = DisposeBag()
+    }
+
+
+    func bindViewModel() {
+
+        &lt;# code #&gt;
+    
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BE390D43-FB3C-4E18-99E7-2CFD94729DFA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This format for table view cell class</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MVVM - Table View Cell Class</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

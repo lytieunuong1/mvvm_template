@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mvvm-viewController</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>
+    //MARK: Private variables
+    private let viewModel: &lt;# ViewModelType #&gt; = &lt;# ViewModel #&gt;()
+    private let disposeBag = DisposeBag()
+
+    //MARK: Public variables
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        //bindViewModel have to called before setupActions
+        bindViewModel()
+        setupActions()
+    }
+
+
+    //MARK: Bind Output data from viewModel
+    func bindViewModel() {
+        //Bind viewModel's outputs here
+        &lt;# code #&gt;
+    }
+
+
+    //MARK: Map UI's actions to Input of the viewModel
+    func setupActions() {
+        //Map UI's actions to viewModel's inputs here
+        &lt;# code #&gt;
+    }
+
+
+    //MARK: Helpful functions
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7C21E4AC-F42C-422E-9CAC-93613E572741</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This format for view controller</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MVVM - View Controller Format</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

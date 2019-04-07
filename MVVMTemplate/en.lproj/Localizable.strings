@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MVVMTemplate
+
+  Created by Thuỳ Nguyễn on 2/9/18.
+  Copyright © 2018 NUS Technology. All rights reserved.
+*/
+"Ok" = "Ok";
+"Success" = "Success";
+"Error" = "Error";
+"Update was success!" = "Update was success!";
+"Update was error!" = "Update was error!";
+"Creation was success!" = "Creation was success!";
+"Creation was error!" = "Creation was error!";
+"Register was successful!" = "Register was successful!";
+"Unrecognized the link" = "Unrecognized the link";
+"Have no respone data" = "Have no respone data";

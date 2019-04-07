@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mvvm-viewModelClass</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class &lt;# ViewModel #&gt;: &lt;# ViewModelType #&gt; {
+
+    //MARK: Variable for Output
+    &lt;# code #&gt;
+
+    //MARK: Input
+    &lt;# code #&gt;
+
+    //MARK: Output
+    &lt;# code #&gt;
+
+    //MARK: Variables
+    &lt;# code #&gt;
+
+    init() {
+
+        //respone events from view
+        &lt;# code #&gt;
+
+    }
+
+    //MARK: Helpful functions
+
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B3C43F8C-4045-44F1-96B7-F7667FB5171B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>The form of view model class</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MVVM - View Model Class</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

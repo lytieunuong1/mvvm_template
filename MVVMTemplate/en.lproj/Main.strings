@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "1uH-Gs-MHa"; */
+"1uH-Gs-MHa.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "5M2-Qp-ZTA"; */
+"5M2-Qp-ZTA.normalTitle" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "9Kk-GE-r3O"; */
+"9Kk-GE-r3O.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "9qZ-Bb-HyO"; */
+"9qZ-Bb-HyO.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "BcZ-oJ-V1z"; */
+"BcZ-oJ-V1z.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Bnh-of-l5x"; */
+"Bnh-of-l5x.normalTitle" = "Delete";
+
+/* Class = "UIButton"; selectedTitle = "Done"; ObjectID = "Bnh-of-l5x"; */
+"Bnh-of-l5x.selectedTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "CLQ-sV-yMX"; */
+"CLQ-sV-yMX.normalTitle" = "Delete";
+
+/* Class = "UIButton"; selectedTitle = "Done"; ObjectID = "CLQ-sV-yMX"; */
+"CLQ-sV-yMX.selectedTitle" = "Done";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "Cjj-ST-xo8"; */
+"Cjj-ST-xo8.text" = "Job";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "EwO-Zt-tVS"; */
+"EwO-Zt-tVS.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "J16-6M-iKD"; */
+"J16-6M-iKD.text" = "User Name:";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "JAa-eW-nDc"; */
+"JAa-eW-nDc.text" = "Job";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "MQj-KW-4eU"; */
+"MQj-KW-4eU.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "N8e-1f-5t1"; */
+"N8e-1f-5t1.text" = "Forgot Password";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "Ook-Gq-qVz"; */
+"Ook-Gq-qVz.title" = "Logout";
+
+/* Class = "UILabel"; text = "Enter your email"; ObjectID = "S8a-JA-2gk"; */
+"S8a-JA-2gk.text" = "Enter your email";
+
+/* Class = "UILabel"; text = "Re-password:"; ObjectID = "Vck-oM-0Iv"; */
+"Vck-oM-0Iv.text" = "Re-password:";
+
+/* Class = "UILabel"; text = "Full Name:"; ObjectID = "YPN-CD-V2v"; */
+"YPN-CD-V2v.text" = "Full Name:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "baJ-x7-QCw"; */
+"baJ-x7-QCw.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "eF2-Ia-mcF"; */
+"eF2-Ia-mcF.normalTitle" = "Add";
+
+/* Class = "UIButton"; selectedTitle = "Save"; ObjectID = "eF2-Ia-mcF"; */
+"eF2-Ia-mcF.selectedTitle" = "Save";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "ehM-Pb-NCc"; */
+"ehM-Pb-NCc.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "f0Q-bh-crv"; */
+"f0Q-bh-crv.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "fl0-6o-Ugs"; */
+"fl0-6o-Ugs.text" = "Password:";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "kkR-BO-647"; */
+"kkR-BO-647.text" = "Job";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "oSc-ss-okK"; */
+"oSc-ss-okK.text" = "Name";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "uAh-U7-uTP"; */
+"uAh-U7-uTP.text" = "Job";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "vxg-Dt-WgV"; */
+"vxg-Dt-WgV.text" = "Name";

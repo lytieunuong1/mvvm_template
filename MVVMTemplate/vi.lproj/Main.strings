@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "1uH-Gs-MHa"; */
+"1uH-Gs-MHa.text" = "Tên:";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "5M2-Qp-ZTA"; */
+"5M2-Qp-ZTA.normalTitle" = "Quên mật khẩu?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "9Kk-GE-r3O"; */
+"9Kk-GE-r3O.normalTitle" = "Huỷ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "9qZ-Bb-HyO"; */
+"9qZ-Bb-HyO.normalTitle" = "Đăng nhập";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "BcZ-oJ-V1z"; */
+"BcZ-oJ-V1z.text" = "Tên:";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Bnh-of-l5x"; */
+"Bnh-of-l5x.normalTitle" = "Xoá";
+
+/* Class = "UIButton"; selectedTitle = "Done"; ObjectID = "Bnh-of-l5x"; */
+"Bnh-of-l5x.selectedTitle" = "Xong";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "CLQ-sV-yMX"; */
+"CLQ-sV-yMX.normalTitle" = "Xoá";
+
+/* Class = "UIButton"; selectedTitle = "Done"; ObjectID = "CLQ-sV-yMX"; */
+"CLQ-sV-yMX.selectedTitle" = "Xong";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "Cjj-ST-xo8"; */
+"Cjj-ST-xo8.text" = "Nghề nghiệp:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "EwO-Zt-tVS"; */
+"EwO-Zt-tVS.normalTitle" = "Đăng ký";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "J16-6M-iKD"; */
+"J16-6M-iKD.text" = "Tài khoản:";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "JAa-eW-nDc"; */
+"JAa-eW-nDc.text" = "Nghề nghiệp:";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "MQj-KW-4eU"; */
+"MQj-KW-4eU.normalTitle" = "Gửi";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "N8e-1f-5t1"; */
+"N8e-1f-5t1.text" = "Quên mật khẩu";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "Ook-Gq-qVz"; */
+"Ook-Gq-qVz.title" = "Đăng xuất";
+
+/* Class = "UILabel"; text = "Enter your email"; ObjectID = "S8a-JA-2gk"; */
+"S8a-JA-2gk.text" = "Nhập email của bạn:";
+
+/* Class = "UILabel"; text = "Re-password:"; ObjectID = "Vck-oM-0Iv"; */
+"Vck-oM-0Iv.text" = "Nhập lại mật khẩu:";
+
+/* Class = "UILabel"; text = "Full Name:"; ObjectID = "YPN-CD-V2v"; */
+"YPN-CD-V2v.text" = "Tên đầy đủ:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "baJ-x7-QCw"; */
+"baJ-x7-QCw.normalTitle" = "Huỷ";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "eF2-Ia-mcF"; */
+"eF2-Ia-mcF.normalTitle" = "Thêm";
+
+/* Class = "UIButton"; selectedTitle = "Save"; ObjectID = "eF2-Ia-mcF"; */
+"eF2-Ia-mcF.selectedTitle" = "Lưu";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "ehM-Pb-NCc"; */
+"ehM-Pb-NCc.text" = "Đăng ký";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "f0Q-bh-crv"; */
+"f0Q-bh-crv.normalTitle" = "Đăng ký";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "fl0-6o-Ugs"; */
+"fl0-6o-Ugs.text" = "Mật khẩu:";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "kkR-BO-647"; */
+"kkR-BO-647.text" = "Nghề nghiệp:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "oSc-ss-okK"; */
+"oSc-ss-okK.text" = "Tên:";
+
+/* Class = "UILabel"; text = "Job"; ObjectID = "uAh-U7-uTP"; */
+"uAh-U7-uTP.text" = "Nghề nghiệp:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "vxg-Dt-WgV"; */
+"vxg-Dt-WgV.text" = "Tên:";

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>mvvm-apiServiceClass</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class &lt;# APIService #&gt;: BaseAPIService {
+
+    override func resourceName() -&gt; String {
+       return &lt;# String #&gt;
+    }
+
+    
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F6156A30-BA81-4EE3-8A5D-F873DF192663</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This format for API service class</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>MVVM - API Service Class </string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
